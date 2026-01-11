@@ -8,5 +8,5 @@ r, annual rate of interest
 Output
 simple interest = p*t*r
 
-2026 Enero
+01-10-2026  Enero
 
